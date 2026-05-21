@@ -1,5 +1,6 @@
 # Java Game Design with Processing [Starter Code]
-
+-Daniel ZOu
+-Merritt 
 #### Q. What objects and methods can I use to make my game?
 A. Click here to see the [Java Game Design with Processing Documentation](https://jabianchi.github.io/APCSA-Lab-JavaGameDesignWithProcessing/javadoc/package-summary.html)
 
